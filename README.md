@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aikosherina
-- 👀 I’m interested in C#, VB.NET, MSSQL programming 
-- 🌱 I’m currently learning Power Apps, Xamarin and other mobile development technologies.
+- 👀 I’m currently using Power Apps, Power Automate, SharePoint
+- 🌱 I’m looking forward to learn more about Model-Driven Apps, PowerPages, Dataverse and Azure services in Power Platform.
 
 <!---
 aikosherina/aikosherina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
